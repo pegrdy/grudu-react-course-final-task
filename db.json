@@ -1,12 +1,129 @@
 {
-    "tweets": [
-        {"id": "1", "author_id": "johnsmith", "text": "What are the pros of object-oriented programming?<br><br>Please, explain as if I'm 5."},
-        {"id": "2", "author_id": "carlanotarobot", "text": "Why use a debugger when you can fill your code with hundreds of <code>print()</code> statements?"},
-        {"id": "3", "author_id": "ameliawarner", "text": "Describe your relationship with JavaScript with one word."}
-    ],
-    "users": [
-        {"id": "johnsmith", "name": "John Smith", "email": "johnsmith@gmail.com"},
-        {"id": "carlanotarobot", "name": "Carla Notarobot", "email": "carlanotarobot@hotmail.com"},
-        {"id": "ameliawarner", "name": "Amelia Warner", "email": "ameliawarner@yahoo.com"}
-    ]
+  "tweets": [
+    {
+      "userName": "petar",
+      "fullName": "petar Wetar",
+      "tweet": "sda",
+      "id": 1
+    },
+    {
+      "userName": "petar",
+      "fullName": "petar Wetar",
+      "id": 1689256267935,
+      "tweet": "sdaadds"
+    },
+    {
+      "userName": "petar",
+      "fullName": "petar Wetar",
+      "id": 1689256360028,
+      "tweet": "wwwww"
+    },
+    {
+      "userName": "petar",
+      "fullName": "petar Wetar",
+      "id": 1689256401863,
+      "tweet": "kfsksdgkdsk;k;dgskjkfsk sdgkdsk;k;dgskjkf sksdgkdsk;k;dgsk jkfsksdgkdsk;k;dgskjkfsksdgkdsk;k;dgskjkfsksdgkdsk;k;dgskjkfsksdgkdsk;k;dgskjkf"
+    },
+    {
+      "userName": "petar",
+      "fullName": "petar Wetar",
+      "id": 1689256548832,
+      "tweet": "import { setTweets } from \"../tweetsSlice\";\nimport { setTweets } from \"../tweetsSlice\";\nimport { setTweets } from \"../tweetsSlice\";\n"
+    },
+    {
+      "userName": "petar",
+      "fullName": "petar Wetar",
+      "id": 1689256580204,
+      "tweet": "import { setTweets } from \"../tweetsSlice\";\nimport { setTweets } from \"../tweetsSlice\";\n<strong>LOL</strong>"
+    },
+    {
+      "userName": "petar",
+      "fullName": "petar Wetar",
+      "id": 1689257251094,
+      "tweet": "afadfsdf <button onClick=\"onerror=\"alert('This restaurant got voted worst in town!');\">sdasda</button>"
+    },
+    {
+      "userName": "petar",
+      "fullName": "petar Wetar",
+      "id": 1689257328231,
+      "tweet": "onerror=\"alert('This restaurant got voted worst in town!');onerror=\"alert("
+    },
+    {
+      "userName": "petar",
+      "fullName": "petar Wetar",
+      "id": 1689257330477,
+      "tweet": "onerror=\"alert('This restaurant got voted worst in town!');onerror=\"alert("
+    },
+    {
+      "userName": "petar",
+      "fullName": "petar Wetar",
+      "id": 1689257400663,
+      "tweet": "onerror=\"alert('This restaurant got voted worst in town!');onerror=\"alert("
+    },
+    {
+      "userName": "WQWEW",
+      "fullName": "EERRR RTTT",
+      "id": 1689257478334,
+      "tweet": "wqeqwerewreerw"
+    },
+    {
+      "userName": "petar",
+      "fullName": "petar Wetar",
+      "id": 1689258336054,
+      "tweet": "wwad <script defer=\"\" src=\"/static/js/bundle.js\"></script>"
+    },
+    {
+      "userName": "TTTFFF",
+      "fullName": "TTT FFF",
+      "id": 1689258701512,
+      "tweet": "gr'l,lm;dhml;dfhml;dfh<strong>LOLJGJLSJLSJLNJLNSGJLBNSGJLBSGJL</strong>"
+    },
+    {
+      "userName": "TTTFFF",
+      "fullName": "TTT FFF",
+      "id": 1689258772131,
+      "tweet": "<p style=\"font-size:14px; color:#538b01; font-weight:bold; font-style:italic;\">\n  Enter the competition by \n\n</p>"
+    },
+    {
+      "userName": "TTTFFF",
+      "fullName": "TTT FFF",
+      "id": 1689258789152,
+      "tweet": "<p style=\"font-size:140px; color:#538b01; font-weight:bold; font-style:italic;\">\n  Green text \n</p>"
+    },
+    {
+      "userName": "TTTFFF",
+      "fullName": "TTT FFF",
+      "id": 1689259073397,
+      "tweet": "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww"
+    },
+    {
+      "userName": "TTTFFF",
+      "fullName": "TTT FFF",
+      "id": 1689259273458,
+      "tweet": "k"
+    }
+  ],
+  "users": [
+    {
+      "email": "petar@petar.com",
+      "password": "petarpetar",
+      "userName": "petar",
+      "fullName": "petar Vetar",
+      "id": "sfB2WZt"
+    },
+    {
+      "email": "petarTest@sadsads.com",
+      "password": "petarpetar",
+      "userName": "WQWEW",
+      "fullName": "EERRR RTTT",
+      "id": "Bh_Iu1m"
+    },
+    {
+      "email": "sdadw@sadsdasd.com",
+      "password": "petarpetar",
+      "userName": "TTTFFF",
+      "fullName": "TTT FFF",
+      "id": "yg8bzUo"
+    }
+  ]
 }
